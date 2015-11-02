@@ -1,6 +1,6 @@
 # Choose Your Own Adventure
 
-Click [here](.md) to begin!
+Click [here](mm.md) to begin!
 
 Click [here](https://docs.google.com/a/hstat.org/drawings/d/1B5-mbtIgnHEP6lk-dLOJp-BKGVjHCojDJxoAMA2lYu0/edit?usp=sharing) to see the diagram of this CYOA!
 
