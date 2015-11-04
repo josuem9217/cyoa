@@ -1,7 +1,6 @@
-#You hear voice say "I’ll leave the package outside the door then"
+#You die on your bed after clicking "yes" to "Are you stil watching" on Netflix
 
 ---
-## What do you want to do *question*
+## Should have answered the door and gotten of your bed you bum
 ---
-## [Go open the door](door.md)
-## [Stay in bed](bed.md)
+[Start Over](../README.md)

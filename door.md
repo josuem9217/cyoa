@@ -1,7 +1,7 @@
-#You hear voice say "I’ll leave the package outside the door then"
+#You go open the door and see a package
 
 ---
 ## What do you want to do *question*
 ---
-## [Go open the door](door.md)
-## [Stay in bed](bed.md)
+## [Open](.md)
+## [Kick it tonthe curb](.md)
