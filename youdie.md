@@ -1,3 +1,3 @@
 You died.  
 ---
-[Start Over]()
+[Start Over](../home.md)
