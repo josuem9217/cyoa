@@ -2,6 +2,6 @@
 ## "Who's there?"
 ---
 Kevin responds with:
-## "[Hatch](hatchwho.md)"
+## "[God Bless You]()"
 Or:
 ## [No Ones Home](noOnesHome.md)
