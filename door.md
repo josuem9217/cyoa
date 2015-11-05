@@ -4,4 +4,4 @@
 ## What do you want to do?
 ---
 ## [Read Note and Open Package](package.md)
-## [Kick it to the curb](.md)
+## [Kick it to the curb](curb.md)
