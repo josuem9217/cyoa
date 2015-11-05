@@ -3,4 +3,4 @@
 ---
 ## Should have answered the door and gotten out of your bed, you bum
 ---
-[Start Over](../README.md)
+[Start Over](README.md)
