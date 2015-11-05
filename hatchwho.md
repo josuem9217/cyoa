@@ -1,5 +1,7 @@
-## Kevin says:
+## You say:
 ## "Who's there?"
 ---
-## [Hatch](hatchwho.md)
+Kevin responds with:
+## "[Hatch](hatchwho.md)"
+Or:
 ## [No Ones Home](noOnesHome.md)
