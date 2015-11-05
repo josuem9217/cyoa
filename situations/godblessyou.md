@@ -1,1 +1,1 @@
-![](tissueboxcat.gif) 
+![](../tissueboxcat.gif) 
